@@ -1,2 +1,2 @@
 # git_flow
-simple repo serving as gitflow example 1
+simple repo serving as gitflow example
